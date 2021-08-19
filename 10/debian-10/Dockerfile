@@ -7,7 +7,7 @@ RUN install_packages curl procps
 
 ENV BITNAMI_APP_NAME="bitnami-shell" \
     BITNAMI_IMAGE_VERSION="10-debian-10-r166" \
-    OS_ARCH="amd64" \
+    OS_ARCH="arm64" \
     OS_FLAVOUR="debian-10" \
     OS_NAME="linux"
 
